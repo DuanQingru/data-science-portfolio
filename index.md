@@ -38,8 +38,7 @@ Hello! I am a data science student at the University of Macau with a growing int
 ## Contact
 
 - GitHub: [https://github.com/DuanQingru](https://github.com/DuanQingru)
-- Student email: [jcxxxxxxx@um.edu.mo](mailto:your-student-email@um.edu.mo)
+- Student email: [mc63549@um.edu.mo](mailto:your-student-email@um.edu.mo)
 
 ---
 
-*Last updated: October 2026*
